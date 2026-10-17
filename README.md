@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Adigun_Mayowa
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning front end for web development 
-- 💞️ I’m looking to collaborate on any development work 
-- 📫 How to reach me 👉📈
+- 👀 I'm passionate about web development and creating websites that are useful, accessible, and attractive.
+- 🌱 I’m currently learning Full-Stack web development 
+- 💞️ I’m looking to collaborate on any kind of project work.
+- 📫 Connect with me here on GitHub!
+
+  
 
 
 <!---
