@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @admate
+- 👋 Hi, I’m @Adigun_Mayowa
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front end for web development 
 - 💞️ I’m looking to collaborate on any development work 
